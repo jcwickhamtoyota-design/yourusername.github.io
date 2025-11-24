@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 5TDADAB5XTS48C750
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:29126118-6134-4075-bc98-e410530da583/image.png?size=1200,663

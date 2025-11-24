@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 5TDAAAB55TS48D409
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:daae42fd-298b-402f-9f17-e462fcd23c8c/image.png?size=1200,663

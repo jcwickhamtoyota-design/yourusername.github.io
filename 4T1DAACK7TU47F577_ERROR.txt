@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 4T1DAACK7TU47F577
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:f4a6d74c-e3ff-481f-92be-2d51ed03a7c1/image.png?size=1200,663
