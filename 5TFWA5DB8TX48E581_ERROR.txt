@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 5TFWA5DB8TX48E581
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:a464d89e-b79d-44a1-a065-72a763ed7912/image.png?size=1200,663
