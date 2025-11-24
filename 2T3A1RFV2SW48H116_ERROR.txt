@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 2T3A1RFV2SW48H116
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:a2333ee9-af17-4db8-a112-f1c4c10d130d/image.png?size=1200,663

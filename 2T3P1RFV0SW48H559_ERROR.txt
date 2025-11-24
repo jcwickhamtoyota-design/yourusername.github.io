@@ -1,0 +1,2 @@
+Failed to fetch image for VIN 2T3P1RFV0SW48H559
+URL: https://media.rti.toyota.com/adobe/dynamicmedia/deliver/urn:aaid:aem:313365a1-5d81-4a35-b0db-c07542a7abf1/image.png?size=1200,663
